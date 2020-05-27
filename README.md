@@ -1,5 +1,5 @@
 # SystemCUnit
-Test your SystemC hardware using hardware, little header only utility
+Test your SystemC hardware using hardware
 
 # Samples
 Will come asap ... but you can still read the sources.
